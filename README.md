@@ -1,5 +1,8 @@
 # prueba_git
 pasos en git
 
-#HOLA BEBE
+# HOLA BEBE
 Esta es una prueba de modificacion del proyecto
+
+# esto es una prueba
+## Mueranse socios
